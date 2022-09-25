@@ -1,8 +1,10 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-    cout << "Hello, world!" << endl;
+int main () {
+    int a = 4;
+    int b = 5;
+    cout << a + b << endl;
 
     return 0;
 }
